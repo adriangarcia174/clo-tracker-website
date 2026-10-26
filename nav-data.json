@@ -1,9 +1,9 @@
 {
-  "asof": "2026-10-23",
+  "asof": "2026-10-26",
   "funds": [
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-26",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 4.17,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-26",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 12.39,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-10-12",
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-26",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.09,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-26",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-26",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -138,32 +138,32 @@
   "prices": {
     "ECC": {
       "price": 2.63,
-      "chg_pct": -0.043636
+      "chg_pct": 0.0
     },
     "EIC": {
       "price": 8.76,
-      "chg_pct": -0.00905
+      "chg_pct": 0.0
     },
     "OXLC": {
-      "price": 6.8,
-      "chg_pct": -0.028571
+      "price": 6.66,
+      "chg_pct": -0.020588000000000002
     },
     "SPMC": {
-      "price": 5.74,
-      "chg_pct": -0.03204
+      "price": 5.64,
+      "chg_pct": -0.017422
     },
     "EARN": {
-      "price": 3.63,
-      "chg_pct": 0.013966000000000001
+      "price": 3.7,
+      "chg_pct": 0.019284
     },
     "CCIF": {
-      "price": 1.84,
-      "chg_pct": -0.046632
+      "price": 1.86,
+      "chg_pct": 0.01087
     },
     "PDCC": {
-      "price": 7.15,
-      "chg_pct": 0.019971000000000003
+      "price": 7.1396,
+      "chg_pct": -0.001455
     }
   },
-  "prices_asof": "2026-10-23"
+  "prices_asof": "2026-10-26"
 }
