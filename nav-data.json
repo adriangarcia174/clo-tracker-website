@@ -1,9 +1,9 @@
 {
-  "asof": "2026-10-27",
+  "asof": "2026-10-28",
   "funds": [
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 4.17,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 12.39,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-10-12",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.09,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-27",
+      "checked_on": "2026-10-28",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -138,32 +138,32 @@
   "prices": {
     "ECC": {
       "price": 2.65,
-      "chg_pct": 0.01145
+      "chg_pct": 0.0
     },
     "EIC": {
       "price": 8.83,
-      "chg_pct": -0.003386
+      "chg_pct": 0.0
     },
     "OXLC": {
-      "price": 6.67,
-      "chg_pct": 0.006032999999999999
+      "price": 6.64,
+      "chg_pct": -0.004497999999999999
     },
     "SPMC": {
-      "price": 5.71,
-      "chg_pct": 0.023297
+      "price": 5.67,
+      "chg_pct": -0.007005
     },
     "EARN": {
       "price": 3.74,
-      "chg_pct": 0.0026810000000000002
+      "chg_pct": 0.0
     },
     "CCIF": {
-      "price": 1.86,
-      "chg_pct": 0.005405
+      "price": 1.84,
+      "chg_pct": -0.010752999999999999
     },
     "PDCC": {
-      "price": 7.34,
-      "chg_pct": 0.025125
+      "price": 7.33,
+      "chg_pct": 0.023729
     }
   },
-  "prices_asof": "2026-10-27"
+  "prices_asof": "2026-10-28"
 }
