@@ -1,9 +1,9 @@
 {
-  "asof": "2026-10-28",
+  "asof": "2026-10-29",
   "funds": [
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-10-29",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 4.17,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-10-29",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 12.39,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-10-12",
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-10-29",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.09,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-10-29",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-10-29",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -138,32 +138,32 @@
   "prices": {
     "ECC": {
       "price": 2.62,
-      "chg_pct": -0.011321000000000001
+      "chg_pct": 0.0
     },
     "EIC": {
-      "price": 8.79,
-      "chg_pct": -0.00453
+      "price": 8.77,
+      "chg_pct": -0.002275
     },
     "OXLC": {
-      "price": 6.58,
-      "chg_pct": -0.013493
+      "price": 6.61,
+      "chg_pct": 0.0045590000000000006
     },
     "SPMC": {
-      "price": 5.64,
-      "chg_pct": -0.012258999999999999
+      "price": 5.67,
+      "chg_pct": 0.005319000000000001
     },
     "EARN": {
-      "price": 3.72,
-      "chg_pct": -0.005348
+      "price": 3.8,
+      "chg_pct": 0.021505
     },
     "CCIF": {
-      "price": 1.78,
-      "chg_pct": -0.043011
+      "price": 1.83,
+      "chg_pct": 0.02809
     },
     "PDCC": {
-      "price": 7.25,
-      "chg_pct": -0.012262
+      "price": 7.49,
+      "chg_pct": 0.033103
     }
   },
-  "prices_asof": "2026-10-28"
+  "prices_asof": "2026-10-29"
 }
