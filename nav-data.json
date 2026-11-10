@@ -1,28 +1,28 @@
 {
-  "asof": "2026-11-09",
+  "asof": "2026-11-10",
   "funds": [
     {
-      "changed_on": "2026-10-13",
-      "checked_on": "2026-11-09",
+      "changed_on": "2026-11-10",
+      "checked_on": "2026-11-10",
       "current_dist": 0.06,
       "freq": 12,
-      "latest_nav": 4.17,
-      "latest_nav_date": "2026-09-30",
+      "latest_nav": 3.78,
+      "latest_nav_date": "2026-10-31",
       "name": "Eagle Point Credit Co",
-      "nav_basis": "Midpoint of range $4.12-$4.22 (E)",
+      "nav_basis": "Midpoint of range $3.73-$3.83",
       "nav_post_date": "2026-10-13",
-      "nav_source": "ECC monthly NAV table (eaglepointcreditcompany.com/our-fund)",
+      "nav_source": "ECC NAV history table (https://www.eaglepointcreditcompany.com/our-fund)",
       "nii_qtr": 0.17,
-      "prior_nav": 4.34,
-      "prior_nav_date": "2026-08-31",
+      "prior_nav": 4.17,
+      "prior_nav_date": "2026-09-30",
       "qtrly_dist": 0.18,
       "sh_out_mm": 133.29,
       "ticker": "ECC",
-      "update_note": "New 9/30 NAV $4.17, midpoint of the $4.12-$4.22 estimated range (was 8/31 $4.34)."
+      "update_note": "New 10/31 NAV $3.78 (was 09/30 $4.17)."
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-11-09",
+      "checked_on": "2026-11-10",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 12.39,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-10-12",
-      "checked_on": "2026-11-09",
+      "checked_on": "2026-11-10",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.09,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-11-09",
+      "checked_on": "2026-11-10",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-11-09",
+      "checked_on": "2026-11-10",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -137,33 +137,33 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.3,
-      "chg_pct": -0.004329
+      "price": 2.14,
+      "chg_pct": -0.069565
     },
     "EIC": {
-      "price": 8.74,
-      "chg_pct": 0.011574
+      "price": 8.59,
+      "chg_pct": -0.017162
     },
     "OXLC": {
-      "price": 5.08,
-      "chg_pct": 0.03252
+      "price": 4.97,
+      "chg_pct": -0.021654
     },
     "SPMC": {
-      "price": 5.7,
-      "chg_pct": -0.023973
+      "price": 5.66,
+      "chg_pct": -0.007018
     },
     "EARN": {
-      "price": 3.42,
-      "chg_pct": 0.042683
+      "price": 3.36,
+      "chg_pct": -0.017544
     },
     "CCIF": {
-      "price": 1.72,
-      "chg_pct": 0.011765000000000001
+      "price": 1.69,
+      "chg_pct": -0.017442
     },
     "PDCC": {
-      "price": 7.4029,
-      "chg_pct": 0.028195
+      "price": 7.5,
+      "chg_pct": 0.013116000000000001
     }
   },
-  "prices_asof": "2026-11-09"
+  "prices_asof": "2026-11-10"
 }
