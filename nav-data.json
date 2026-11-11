@@ -137,32 +137,32 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.18,
-      "chg_pct": -0.052174
+      "price": 2.16,
+      "chg_pct": -0.009174
     },
     "EIC": {
-      "price": 8.78,
-      "chg_pct": 0.004577
+      "price": 8.99,
+      "chg_pct": 0.023918
     },
     "OXLC": {
-      "price": 4.98,
-      "chg_pct": -0.019684999999999998
+      "price": 5.12,
+      "chg_pct": 0.028111999999999998
     },
     "SPMC": {
-      "price": 5.78,
-      "chg_pct": 0.014034999999999999
+      "price": 5.9,
+      "chg_pct": 0.020760999999999998
     },
     "EARN": {
       "price": 3.33,
-      "chg_pct": -0.026316000000000003
+      "chg_pct": 0.0
     },
     "CCIF": {
-      "price": 1.67,
-      "chg_pct": -0.02907
+      "price": 1.66,
+      "chg_pct": -0.005988
     },
     "PDCC": {
-      "price": 7.75,
-      "chg_pct": 0.046887
+      "price": 7.63,
+      "chg_pct": -0.015484
     }
   },
   "prices_asof": "2026-11-11"
