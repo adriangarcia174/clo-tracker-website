@@ -1,9 +1,9 @@
 {
-  "asof": "2026-11-10",
+  "asof": "2026-11-11",
   "funds": [
     {
       "changed_on": "2026-11-10",
-      "checked_on": "2026-11-10",
+      "checked_on": "2026-11-11",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.78,
@@ -21,23 +21,23 @@
       "update_note": "New 10/31 NAV $3.78 (was 09/30 $4.17)."
     },
     {
-      "changed_on": "2026-10-13",
-      "checked_on": "2026-11-10",
+      "changed_on": "2026-11-11",
+      "checked_on": "2026-11-11",
       "current_dist": 0.11,
       "freq": 12,
-      "latest_nav": 12.39,
-      "latest_nav_date": "2026-09-30",
+      "latest_nav": 11.97,
+      "latest_nav_date": "2026-10-31",
       "name": "Eagle Point Income Co",
-      "nav_basis": "Midpoint of range $12.34-$12.44 (E)",
+      "nav_basis": "Midpoint of range $11.92-$12.02",
       "nav_post_date": "2026-10-13",
-      "nav_source": "EIC monthly NAV table (eaglepointincome.com/our-fund)",
+      "nav_source": "EIC NAV history table (https://www.eaglepointincome.com/our-fund)",
       "nii_qtr": 0.37,
-      "prior_nav": 12.43,
-      "prior_nav_date": "2026-08-31",
+      "prior_nav": 12.39,
+      "prior_nav_date": "2026-09-30",
       "qtrly_dist": 0.33,
       "sh_out_mm": 23.05,
       "ticker": "EIC",
-      "update_note": "New 9/30 NAV $12.39, midpoint of the $12.34-$12.44 estimated range (was 8/31 $12.43)."
+      "update_note": "New 10/31 NAV $11.97 (was 09/30 $12.39)."
     },
     {
       "changed_on": "",
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-10-12",
-      "checked_on": "2026-11-10",
+      "checked_on": "2026-11-11",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.09,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-11-10",
+      "checked_on": "2026-11-11",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-11-10",
+      "checked_on": "2026-11-11",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -165,5 +165,5 @@
       "chg_pct": 0.046887
     }
   },
-  "prices_asof": "2026-11-10"
+  "prices_asof": "2026-11-11"
 }
