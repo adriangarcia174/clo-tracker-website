@@ -1,9 +1,9 @@
 {
-  "asof": "2026-11-11",
+  "asof": "2026-11-12",
   "funds": [
     {
       "changed_on": "2026-11-10",
-      "checked_on": "2026-11-11",
+      "checked_on": "2026-11-12",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.78,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-11-11",
-      "checked_on": "2026-11-11",
+      "checked_on": "2026-11-12",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 11.97,
@@ -59,23 +59,23 @@
       "update_note": ""
     },
     {
-      "changed_on": "2026-10-12",
-      "checked_on": "2026-11-11",
+      "changed_on": "2026-11-12",
+      "checked_on": "2026-11-12",
       "current_dist": 0.13,
       "freq": 12,
-      "latest_nav": 9.09,
-      "latest_nav_date": "2026-09-30",
+      "latest_nav": 8.46,
+      "latest_nav_date": "2026-10-31",
       "name": "Sound Point Meridian Capital",
-      "nav_basis": "Midpoint of range: Sep $9.04-$9.14, Aug $9.52-$9.62; NII = midpoint of Sep-qtr estimate $0.24-$0.32",
-      "nav_post_date": "2026-10-09",
-      "nav_source": "SPMC 8-Ks 10/9/2026 and 9/8/2026; distribution cut to $0.13/mo from Oct 2026 (8-K Aug 2026)",
+      "nav_basis": "Midpoint of range $8.41-$8.51",
+      "nav_post_date": "2026-11-12",
+      "nav_source": "SPMC 8-K filed 2026-11-12",
       "nii_qtr": 0.28,
-      "prior_nav": 9.57,
-      "prior_nav_date": "2026-08-31",
+      "prior_nav": 9.09,
+      "prior_nav_date": "2026-09-30",
       "qtrly_dist": 0.39,
       "sh_out_mm": 20.84,
       "ticker": "SPMC",
-      "update_note": "New 9/30 NAV $9.09 (was 8/31 $9.57). Monthly distribution cut to $0.13 from $0.20 starting October."
+      "update_note": "New 10/31 NAV $8.46 (was 09/30 $9.09)."
     },
     {
       "changed_on": "",
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-10-16",
-      "checked_on": "2026-11-11",
+      "checked_on": "2026-11-12",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.05,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-11-11",
+      "checked_on": "2026-11-12",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -137,33 +137,33 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.12,
-      "chg_pct": -0.027523
+      "price": 2.11,
+      "chg_pct": -0.004717
     },
     "EIC": {
-      "price": 8.89,
-      "chg_pct": 0.012528
+      "price": 8.91,
+      "chg_pct": 0.0022500000000000003
     },
     "OXLC": {
-      "price": 5.08,
-      "chg_pct": 0.02008
+      "price": 5.09,
+      "chg_pct": 0.001969
     },
     "SPMC": {
-      "price": 5.9,
-      "chg_pct": 0.020760999999999998
+      "price": 6.42,
+      "chg_pct": 0.08813599999999999
     },
     "EARN": {
-      "price": 3.26,
-      "chg_pct": -0.021021
+      "price": 3.22,
+      "chg_pct": -0.012270000000000001
     },
     "CCIF": {
-      "price": 1.655,
-      "chg_pct": -0.008982
+      "price": 1.58,
+      "chg_pct": -0.045316999999999996
     },
     "PDCC": {
-      "price": 7.52,
-      "chg_pct": -0.029677
+      "price": 7.72,
+      "chg_pct": 0.026596
     }
   },
-  "prices_asof": "2026-11-11"
+  "prices_asof": "2026-11-12"
 }
