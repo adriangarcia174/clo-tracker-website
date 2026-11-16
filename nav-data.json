@@ -1,9 +1,9 @@
 {
-  "asof": "2026-11-13",
+  "asof": "2026-11-16",
   "funds": [
     {
       "changed_on": "2026-11-10",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-16",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.78,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-11-11",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-16",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 11.97,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-11-12",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-16",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 8.46,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-11-13",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-16",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 2.68,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-10-13",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-16",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 10.67,
@@ -137,33 +137,33 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.33,
-      "chg_pct": 0.093897
+      "price": 2.42,
+      "chg_pct": 0.038626999999999995
     },
     "EIC": {
       "price": 9.29,
-      "chg_pct": 0.046171
+      "chg_pct": 0.0
     },
     "OXLC": {
-      "price": 5.04,
-      "chg_pct": 0.001988
+      "price": 5.01,
+      "chg_pct": -0.005952
     },
     "SPMC": {
-      "price": 5.97,
-      "chg_pct": -0.044800000000000006
+      "price": 6.07,
+      "chg_pct": 0.01675
     },
     "EARN": {
-      "price": 3.25,
-      "chg_pct": 0.012461
+      "price": 3.32,
+      "chg_pct": 0.021537999999999998
     },
     "CCIF": {
       "price": 1.7,
-      "chg_pct": 0.049382999999999996
+      "chg_pct": 0.0
     },
     "PDCC": {
-      "price": 7.669,
-      "chg_pct": -0.005318000000000001
+      "price": 7.46,
+      "chg_pct": -0.027253
     }
   },
-  "prices_asof": "2026-11-13"
+  "prices_asof": "2026-11-16"
 }
