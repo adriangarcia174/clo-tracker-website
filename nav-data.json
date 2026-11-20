@@ -116,53 +116,53 @@
       "update_note": "New 10/31 NAV $2.68 (was 09/30 $3.05)."
     },
     {
-      "changed_on": "2026-10-13",
+      "changed_on": "2026-11-20",
       "checked_on": "2026-11-20",
       "current_dist": 0.13,
       "freq": 12,
-      "latest_nav": 10.67,
-      "latest_nav_date": "2026-09-30",
+      "latest_nav": 9.58,
+      "latest_nav_date": "2026-10-31",
       "name": "Pearl Diver Credit Co",
-      "nav_basis": "Point value (fund 8-K)",
-      "nav_post_date": "2026-10-13",
-      "nav_source": "PDCC 8-K filed 10/13/2026 (Sep NAV $10.67)",
+      "nav_basis": "Point value (fund source)",
+      "nav_post_date": "2026-11-20",
+      "nav_source": "PDCC 8-K filed 2026-11-20",
       "nii_qtr": 0.33,
-      "prior_nav": 10.86,
-      "prior_nav_date": "2026-08-31",
+      "prior_nav": 10.67,
+      "prior_nav_date": "2026-09-30",
       "qtrly_dist": 0.39,
       "sh_out_mm": 6.8,
       "ticker": "PDCC",
-      "update_note": "New 9/30 NAV $10.67 per 8-K filed 10/13/2026 (was 8/31 $10.86)."
+      "update_note": "New 10/31 NAV $9.58 (was 09/30 $10.67)."
     }
   ],
   "prices": {
     "ECC": {
-      "price": 2.41,
-      "chg_pct": -0.024291
+      "price": 2.42,
+      "chg_pct": -0.020243
     },
     "EIC": {
-      "price": 8.97,
-      "chg_pct": -0.00884
+      "price": 9.01,
+      "chg_pct": -0.00442
     },
     "OXLC": {
-      "price": 4.95,
-      "chg_pct": 0.0020239999999999998
-    },
-    "SPMC": {
-      "price": 5.81,
-      "chg_pct": -0.044408
-    },
-    "EARN": {
-      "price": 2.68,
-      "chg_pct": -0.151899
-    },
-    "CCIF": {
-      "price": 1.44,
+      "price": 4.94,
       "chg_pct": 0.0
     },
+    "SPMC": {
+      "price": 6.13,
+      "chg_pct": 0.008224
+    },
+    "EARN": {
+      "price": 2.45,
+      "chg_pct": -0.224684
+    },
+    "CCIF": {
+      "price": 1.41,
+      "chg_pct": -0.020833
+    },
     "PDCC": {
-      "price": 7.43,
-      "chg_pct": -0.006684
+      "price": 6.99,
+      "chg_pct": -0.065508
     }
   },
   "prices_asof": "2026-11-20"
