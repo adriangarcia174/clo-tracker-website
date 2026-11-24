@@ -1,9 +1,9 @@
 {
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "funds": [
     {
       "changed_on": "2026-11-10",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 3.78,
@@ -22,7 +22,7 @@
     },
     {
       "changed_on": "2026-11-11",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "current_dist": 0.11,
       "freq": 12,
       "latest_nav": 11.97,
@@ -41,7 +41,7 @@
     },
     {
       "changed_on": "",
-      "checked_on": "2026-11-18",
+      "checked_on": "2026-11-24",
       "current_dist": 0.2,
       "freq": 12,
       "latest_nav": 10.49,
@@ -60,7 +60,7 @@
     },
     {
       "changed_on": "2026-11-12",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 8.46,
@@ -79,7 +79,7 @@
     },
     {
       "changed_on": "",
-      "checked_on": "2026-11-18",
+      "checked_on": "2026-11-24",
       "current_dist": 0.08,
       "freq": 12,
       "latest_nav": 4.16,
@@ -98,7 +98,7 @@
     },
     {
       "changed_on": "2026-11-13",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "current_dist": 0.06,
       "freq": 12,
       "latest_nav": 2.68,
@@ -117,7 +117,7 @@
     },
     {
       "changed_on": "2026-11-20",
-      "checked_on": "2026-11-23",
+      "checked_on": "2026-11-24",
       "current_dist": 0.13,
       "freq": 12,
       "latest_nav": 9.58,
@@ -137,33 +137,33 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.53,
-      "chg_pct": 0.045454999999999995
+      "price": 2.55,
+      "chg_pct": 0.053719
     },
     "EIC": {
-      "price": 9.11,
-      "chg_pct": 0.011099000000000001
+      "price": 9.09,
+      "chg_pct": 0.008879
     },
     "OXLC": {
       "price": 5.13,
       "chg_pct": 0.038462
     },
     "SPMC": {
-      "price": 6.13,
-      "chg_pct": 0.0
+      "price": 6.2,
+      "chg_pct": 0.011418999999999999
     },
     "EARN": {
       "price": 2.72,
       "chg_pct": 0.11020400000000001
     },
     "CCIF": {
-      "price": 1.45,
-      "chg_pct": 0.028369
+      "price": 1.44,
+      "chg_pct": 0.021277
     },
     "PDCC": {
-      "price": 7,
-      "chg_pct": 0.001431
+      "price": 6.99,
+      "chg_pct": 0.0
     }
   },
-  "prices_asof": "2026-11-23"
+  "prices_asof": "2026-11-24"
 }
