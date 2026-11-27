@@ -41,7 +41,7 @@
     },
     {
       "changed_on": "",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-27",
       "current_dist": 0.2,
       "freq": 12,
       "latest_nav": 10.49,
@@ -79,7 +79,7 @@
     },
     {
       "changed_on": "",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-27",
       "current_dist": 0.08,
       "freq": 12,
       "latest_nav": 4.16,
@@ -137,32 +137,32 @@
   ],
   "prices": {
     "ECC": {
-      "price": 2.52,
-      "chg_pct": 0.024390000000000002
+      "price": 2.55,
+      "chg_pct": 0.011904999999999999
     },
     "EIC": {
-      "price": 9.15,
-      "chg_pct": 0.022345999999999998
+      "price": 9.24,
+      "chg_pct": 0.009836000000000001
     },
     "OXLC": {
-      "price": 5.02,
-      "chg_pct": 0.006012
+      "price": 5.04,
+      "chg_pct": 0.003984
     },
     "SPMC": {
-      "price": 6.43,
-      "chg_pct": 0.011006
+      "price": 6.48,
+      "chg_pct": 0.007776
     },
     "EARN": {
-      "price": 2.73,
-      "chg_pct": 0.011111
+      "price": 2.74,
+      "chg_pct": 0.003663
     },
     "CCIF": {
-      "price": 1.29,
-      "chg_pct": -0.037313
+      "price": 1.35,
+      "chg_pct": 0.046512000000000005
     },
     "PDCC": {
-      "price": 7,
-      "chg_pct": 0.052632000000000005
+      "price": 6.93,
+      "chg_pct": -0.01
     }
   },
   "prices_asof": "2026-11-27"
